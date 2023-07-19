@@ -1,3 +1,3 @@
-# Prediabetes-prognosis
+# Junior ML Contest
 
 Рассказываю о следуюещмЖ
